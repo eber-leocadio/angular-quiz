@@ -1,0 +1,132 @@
+[
+  {
+    "pergunta": "Qual personagem do folclore brasileiro é conhecido por suas travessuras e por ter apenas uma perna?",
+    "alternativas": {
+      "a": "Saci-Pererê",
+      "b": "Curupira",
+      "c": "Boto-cor-de-rosa",
+      "d": "Boitatá"
+    },
+    "resposta": "a"
+  },
+  {
+    "pergunta": "Qual criatura do folclore brasileiro é conhecida por proteger as florestas e os animais?",
+    "alternativas": {
+      "a": "Iara",
+      "b": "Curupira",
+      "c": "Negrinho do Pastoreio",
+      "d": "Bicho-papão"
+    },
+    "resposta": "b"
+  },
+  {
+    "pergunta": "Qual é a lenda que conta a história de um golfinho que se transforma em um homem bonito para seduzir mulheres?",
+    "alternativas": {
+      "a": "Boitatá",
+      "b": "Boto-cor-de-rosa",
+      "c": "Cuca",
+      "d": "Mula-sem-cabeça"
+    },
+    "resposta": "b"
+  },
+  {
+    "pergunta": "Qual é a lenda de uma cobra de fogo que protege a floresta e os animais?",
+    "alternativas": {
+      "a": "Boitatá",
+      "b": "Cuca",
+      "c": "Boto-cor-de-rosa",
+      "d": "Saci-Pererê"
+    },
+    "resposta": "a"
+  },
+  {
+    "pergunta": "Qual personagem do folclore brasileiro é conhecido por ser um menino negro que vive aprontando travessuras?",
+    "alternativas": {
+      "a": "Curupira",
+      "b": "Negrinho do Pastoreio",
+      "c": "Saci-Pererê",
+      "d": "Boto-cor-de-rosa"
+    },
+    "resposta": "c"
+  },
+  {
+    "pergunta": "Qual criatura do folclore brasileiro é conhecida por ser uma mulher bonita que seduz os homens e os leva para o fundo do rio?",
+    "alternativas": {
+      "a": "Iara",
+      "b": "Cuca",
+      "c": "Mula-sem-cabeça",
+      "d": "Bicho-papão"
+    },
+    "resposta": "a"
+  },
+  {
+    "pergunta": "Qual é a lenda de uma mulher que se transforma em uma mula sem cabeça nas noites de sexta-feira?",
+    "alternativas": {
+      "a": "Cuca",
+      "b": "Mula-sem-cabeça",
+      "c": "Iara",
+      "d": "Boitatá"
+    },
+    "resposta": "b"
+  },
+  {
+    "pergunta": "Qual personagem do folclore brasileiro é conhecido por ser um monstro que come crianças desobedientes?",
+    "alternativas": {
+      "a": "Bicho-papão",
+      "b": "Curupira",
+      "c": "Saci-Pererê",
+      "d": "Boto-cor-de-rosa"
+    },
+    "resposta": "a"
+  },
+  {
+    "pergunta": "Qual é a lenda de uma bruxa que se transforma em uma jacaré e rapta crianças desobedientes?",
+    "alternativas": {
+      "a": "Iara",
+      "b": "Cuca",
+      "c": "Mula-sem-cabeça",
+      "d": "Boitatá"
+    },
+    "resposta": "b"
+  },
+  {
+    "pergunta": "Qual personagem do folclore brasileiro é conhecido por ser um menino que cuida do gado e que foi injustamente castigado?",
+    "alternativas": {
+      "a": "Curupira",
+      "b": "Negrinho do Pastoreio",
+      "c": "Saci-Pererê",
+      "d": "Boto-cor-de-rosa"
+    },
+    "resposta": "b"
+  },
+  {
+    "pergunta": "Qual é a lenda de um homem que se transforma em um lobo nas noites de lua cheia?",
+    "alternativas": {
+      "a": "Cuca",
+      "b": "Lobisomem",
+      "c": "Iara",
+      "d": "Boitatá"
+    },
+    "resposta": "b"
+  },
+  {
+    "pergunta": "Qual personagem do folclore brasileiro é conhecido por ser um monstro com pés virados para trás que protege a floresta?",
+    "alternativas": {
+      "a": "Curupira",
+      "b": "Negrinho do Pastoreio",
+      "c": "Saci-Pererê",
+      "d": "Boto-cor-de-rosa"
+    },
+    "resposta": "a"
+  },
+  {
+    "pergunta": "Qual é a lenda de um homem que se transforma em um golfinho e seduz mulheres?",
+    "alternativas": {
+      "a": "Iara",
+      "b": "Boto-cor-de-rosa",
+      "c": "Mula-sem-cabeça",
+      "d": "Boitatá"
+    },
+    "resposta": "b"
+  }
+]

@@ -1,0 +1,36 @@
+<div class="container border rounded-lg row m-auto bg-success">
+
+  <div class="container p-4 m-4 border bg-dark text-white">
+    <p class="text-center">{{questao}}</p>
+  </div>
+  <div class="container row">
+
+    <div class="border ml-5 mb-5 col-7 bg-dark">
+      <div class="row">
+        <div class="col-12 mx-3 p-2">
+          <button class="btn btn-warning btn-lg" (click)="onClick('a')">A</button>
+          <span class="text-monospace ml-3 badge badge-pill badge-secondary">{{alternativas.a}}</span>
+        </div>
+        <div class="col-12 mx-3 p-2">
+          <button class="btn btn-warning btn-lg" (click)="onClick('b')">B</button>
+          <span class="text-monospace ml-3 badge badge-pill badge-secondary">{{alternativas.b}}</span>
+        </div>
+        <div class="col-12 mx-3 p-2">
+          <button class="btn btn-warning btn-lg" (click)="onClick('c')">C</button>
+          <span class="text-monospace ml-3 badge badge-pill badge-secondary">{{alternativas.c}}</span>
+        </div>
+        <div class="col-12 mx-3 p-2">
+          <button class="btn btn-warning btn-lg" (click)="onClick('d')">D</button>
+          <span class="text-monospace ml-3 badge badge-pill badge-secondary">{{alternativas.d}}</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="border col-3 mb-5 mx-4 bg-warning">
+      <div class="title"><h4>Resposta Selecionada</h4></div>
+      <div class="text-center text-capitalize font-weight-bolder" style="font-size: 7rem;">{{select}}</div>
+      <button *ngIf="select != ''" class="btn btn-success m-" (click)="next()">Próxima</button>
+    </div>
+  </div>
+
+</div>
