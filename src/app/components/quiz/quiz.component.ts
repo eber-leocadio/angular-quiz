@@ -42,8 +42,7 @@ export class QuizComponent {
   next() {
     this.count += 1;
     if (this.count == this.data.length) {
-      alert(`FIM`)
-      confirm('OK')
+      alert(`FIM!!!! \n Sua pontuação total: \n Acertos: ${this.acertos} \n Erros: ${this.erros}`);
     } else {
 
       if (this.resposta == this.select) this.acertos += 1;
